@@ -39,4 +39,3 @@ public class CidadeEntidade implements Serializable{
         this.nome = nome;
     }
 }
-
