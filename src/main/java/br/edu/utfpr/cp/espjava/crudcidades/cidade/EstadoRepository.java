@@ -8,5 +8,4 @@ public interface EstadoRepository extends JpaRepository<EstadoEntidade, Long> {
 
 	public Optional<EstadoEntidade> findByNome(String nome);
 	public Optional<EstadoEntidade> findByNomeAndSigla(String nome, String sigla);
-	public Optional<EstadoEntidade> findBySigla(String sigla);
 }
