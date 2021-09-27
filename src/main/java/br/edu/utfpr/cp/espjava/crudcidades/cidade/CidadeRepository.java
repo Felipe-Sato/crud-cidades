@@ -6,9 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CidadeRepository extends JpaRepository<CidadeEntidade, Long> { 
 
-    public Optional<CidadeEntidade> findByEstado(String estado);
 	public Optional<CidadeEntidade> findByNome(String nome);
 	public Optional<CidadeEntidade> findByNomeAndEstado(String nome, String estado);
 }
-
-
