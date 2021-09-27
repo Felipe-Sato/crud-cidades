@@ -9,8 +9,8 @@ public final class Cidade {
     @Size(min = 5, max = 60, message = "{app.cidade.size}")
     private final String nome;
 
-    @NotBlank(message = "{app.estado.blank}")
-    @Size(min = 2, max = 2, message = "{app.estado.size}")
+    @NotBlank(message = "{app.sigla.blank}")
+    @Size(min = 2, max = 2, message = "{app.sigla.size}")
     private final String estado;
 
     public Cidade(final String nome, final String estado) {
