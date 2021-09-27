@@ -33,14 +33,15 @@ public class CidadeController {
                                                     .collect(Collectors.toList()));
 
         memoria.addAttribute("listaEstados", estadoRepository
-				.findAll()
-				.stream()
-				.map(Estado::clonar)
-				.collect(Collectors.toList()));
+													.findAll()
+													.stream()
+													.map(Estado::clonar)
+													.collect(Collectors.toList()));
         
         return "/crud";
     }
     
+    /* CRUD methods for cidades */
     @PostMapping("/criarCidade")
     public String criarCidade(@Valid Cidade cidade, BindingResult validacao, Model memoria) {
 
@@ -53,7 +54,7 @@ public class CidadeController {
                             error.getDefaultMessage())
                         );
 
-        } else if (cidadeRepository.findByNome(cidade.getNome()).isPresent()){
+        } else if (cidadeRepository.findByNome(cidade.getNome()).isPresent()) {
         	
         } else {
         	cidadeRepository.save(cidade.clonar());
@@ -116,6 +117,7 @@ public class CidadeController {
             return "redirect:/";
     }
 	
+    /* CRUD methods for estados */
 	@PostMapping("/criarEstado")
 	public String criarEstado(@Valid Estado estado, BindingResult validacao, Model memoria) {
 		
