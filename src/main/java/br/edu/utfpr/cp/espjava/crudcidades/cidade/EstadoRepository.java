@@ -6,6 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EstadoRepository extends JpaRepository<EstadoEntidade, Long> {
 
-	public Optional<EstadoEntidade> findByNome(String nome);
-	public Optional<EstadoEntidade> findByNomeAndSigla(String nome, String sigla);
+	Optional<EstadoEntidade> findByNome(String nome);
+	Optional<EstadoEntidade> findByNomeAndSigla(String nome, String sigla);
 }

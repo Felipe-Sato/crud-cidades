@@ -66,7 +66,7 @@ public class CidadeController {
         memoria.addAttribute("estadoInformado", cidade.getEstado());
         memoria.addAttribute("listaCidades", cidadeRepository.findAll());
         
-        return ("/crud");
+        return "/crud";
     }
 
     @GetMapping("/excluirCidade")
@@ -141,7 +141,7 @@ public class CidadeController {
 		memoria.addAttribute("siglaInformada", estado.getSigla());
 		memoria.addAttribute("listaEstados", estadoRepository.findAll());
 		
-		return ("/crud");
+		return "/crud";
 	}
 	
 	@GetMapping("/excluirEstado")

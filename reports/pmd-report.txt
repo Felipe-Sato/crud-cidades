@@ -1,0 +1,412 @@
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'messageSource' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'messageSource' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bean' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplication.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'bean' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:7:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:7:	UnusedImports:	UnusedImports: Unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:7:	UnusedImports:	UnusedImports: Unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:16:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	CommentRequired:	CommentRequired: Protected method constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	MissingOverride:	MissingOverride: The method 'configure(HttpSecurity)' is missing an @Override annotation.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	MissingOverride:	MissingOverride: The method 'configure(HttpSecurity)' is missing an @Override annotation.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:18:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:19:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:22:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 9 times in this file; the first occurrence is on line 22
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:22:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 9 times in this file; the first occurrence is on line 22
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/SecurityConfig.java:47:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEntidade' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEntidade' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Cidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidadeRepository' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidadeRepository' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estadoRepository' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estadoRepository' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:29:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:41:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "/crud" appears 5 times in this file; the first occurrence is on line 41
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:41:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "/crud" appears 5 times in this file; the first occurrence is on line 41
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'validacao' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'validacao' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:57:	EmptyIfStmt:	EmptyIfStmt: Avoid empty if statements
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:57:	EmptyIfStmt:	EmptyIfStmt: Avoid empty if statements
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:57:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:62:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "redirect:/" appears 6 times in this file; the first occurrence is on line 62
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:62:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "redirect:/" appears 6 times in this file; the first occurrence is on line 62
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:62:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:62:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:69:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:69:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEncontrada' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEncontrada' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:79:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:85:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:85:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:86:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:87:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:88:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:88:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:90:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:92:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:101:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:101:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:102:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomeAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:102:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomeAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:103:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estadoAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:103:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estadoAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:104:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:104:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cidade' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:106:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:106:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:108:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:108:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEncontrada' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cidadeEncontrada' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:111:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:111:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:112:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:112:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'validacao' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'validacao' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:125:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:125:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:132:	EmptyIfStmt:	EmptyIfStmt: Avoid empty if statements
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:132:	EmptyIfStmt:	EmptyIfStmt: Avoid empty if statements
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:132:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:132:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:137:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:137:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:144:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:144:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:148:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:148:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:149:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:149:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:150:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:150:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:151:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEncontrado' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:151:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEncontrado' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:153:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:153:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:159:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:159:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:160:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:160:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:161:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:161:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:162:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:162:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'memoria' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:164:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:164:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:166:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:166:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:175:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:175:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:176:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomeAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:176:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nomeAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:177:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'siglaAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:177:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'siglaAtual' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:178:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:178:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:180:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:180:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoAtual' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:182:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:184:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEncontrado' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:184:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEncontrado' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:185:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:185:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:186:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeController.java:186:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	DataClass:	DataClass: The class 'CidadeEntidade' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	DataClass:	DataClass: The class 'CidadeEntidade' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:34:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeEntidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNomeAndEstado': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/CidadeRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNomeAndEstado': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEntidade' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'estadoEntidade' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:38:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/Estado.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	DataClass:	DataClass: The class 'EstadoEntidade' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	DataClass:	DataClass: The class 'EstadoEntidade' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=6)
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:11:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoEntidade.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'sigla' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:9:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNomeAndSigla': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/cidade/EstadoRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNomeAndSigla': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:20:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:23:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nome' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'papeis' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'papeis' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/Usuario.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'senha' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:11:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:18:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:18:	AvoidUncheckedExceptionsInSignatures:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usuario' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'usuario' could be declared final
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:22:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:22:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:23:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioDetailsService.java:23:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/main/java/br/edu/utfpr/cp/espjava/crudcidades/usuario/UsuarioRepository.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByNome': the method is declared in an interface type
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/br/edu/utfpr/cp/espjava/crudcidades/CrudCidadesApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
